@@ -1,4 +1,4 @@
-# deskpet 소개 페이지
+# 뭉치 소개 페이지
 
-https://xo0449.github.io/deskpet-site/ 에 올라가는 빌드 결과물입니다. 직접 고치지 않습니다.
+https://xo0449.github.io/mungchi-site/ 에 올라가는 빌드 결과물입니다. 직접 고치지 않습니다.
 앱은 개발 중이고 아직 배포판이 없습니다.
