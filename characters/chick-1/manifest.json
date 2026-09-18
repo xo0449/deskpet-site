@@ -4,7 +4,7 @@
   "line": "chick",
   "stage": 1,
   "version": 1,
-  "tier": "free",
+  "tier": "paid",
   "source": {
     "author": "deskpet (문자열로 픽셀을 놓아 그림, art/chick.py)",
     "license": "project-internal"

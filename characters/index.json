@@ -1,5 +1,9 @@
 {
   "packs": [
+    "cat-0",
+    "cat-1",
+    "cat-2",
+    "cat-3",
     "chick-0",
     "chick-1",
     "chick-2",
@@ -8,10 +12,6 @@
     "hamster-1",
     "hamster-2",
     "hamster-3",
-    "cat-0",
-    "cat-1",
-    "cat-2",
-    "cat-3",
     "rabbit-0",
     "rabbit-1",
     "rabbit-2",

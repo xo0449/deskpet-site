@@ -4,7 +4,7 @@
   "line": "cat",
   "stage": 1,
   "version": 1,
-  "tier": "paid",
+  "tier": "free",
   "source": {
     "author": "deskpet (문자열로 픽셀을 놓아 그림, art/mammals.py)",
     "license": "project-internal"
