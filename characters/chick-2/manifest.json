@@ -10,6 +10,10 @@
     "license": "project-internal"
   },
   "cell": 32,
+  "metrics": {
+    "height": 27,
+    "hangHeight": 29
+  },
   "traits": {},
   "anims": {
     "idle": {
